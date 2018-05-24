@@ -60,7 +60,7 @@ You will be notified of any Privacy Policy changes:
 - On our Privacy Policy Page  
 
 You can change your personal information:
-- By emailing us at [admin@somexapps.com](mailto:admin@somexapps.com)
+- By emailing us at [admin@somex.app](mailto:admin@somex.app)
 
 ## How does our site handle Do Not Track signals?
 
@@ -100,7 +100,7 @@ To be in accordance with CANSPAM, we agree to the following:
 -  Honor opt-out/unsubscribe requests quickly.
 - Allow users to unsubscribe by using the link at the bottom of each email.
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [admin@somexapps.com](mailto:admin@somexapps.com) and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [admin@somex.app](mailto:admin@somex.app) and we will promptly remove you from ALL correspondence.
 
 
 ## Contacting Us
@@ -111,6 +111,6 @@ SomethingExplosive Apps
 PO Box 9113  
 Portland, OR 97207  
 United States  
-[admin@somexapps.com](mailto:admin@somexapps.com)
+[admin@somex.app](mailto:admin@somex.app)
 
 Last Edited on 2017-02-09
